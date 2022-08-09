@@ -35,7 +35,7 @@ def generate_pseudonormal(source_texture, normal_map, replace=False):
     if replace:
         img_pil.save(source_texture)
         return True
-    print("Prepairing result: "+source_texture[: len(source_texture) - 4]+'_pseudonormal.png')
+    print("Prepairing the result: "+source_texture[: len(source_texture) - 4]+'_pseudonormal.png')
     img_pil.save(source_texture[: len(source_texture) - 4]+'_pseudonormal.png')
     print("Done!")
     return True
