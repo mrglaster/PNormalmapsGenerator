@@ -27,7 +27,6 @@ pip install opencv_python_headless==4.6.0.66 Pillow==9.2.0
 
 ```
 python generator.py -t texture.png -n normal_map.png 
-
 ```
 
 ## Links
