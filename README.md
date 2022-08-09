@@ -1,4 +1,4 @@
-# Pseudonormalmaps generator
+# Pseudo normal maps generator
 A utility for processing a texture using its normal map.
 
 ## What is this utility for?
