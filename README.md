@@ -9,6 +9,10 @@ Some older game engines do not support certain technologies. These technologies 
 
 ![alt text](https://github.com/mrglaster/pseudonormalmaps_generator/blob/main/demo_images/example.png?raw=true)
 
+## In-model results
+
+![alt text](https://github.com/mrglaster/pseudonormalmaps_generator/blob/main/demo_images/example_2.png?raw=true)
+
 ## How to use?
 
 1) Install requirement packages
